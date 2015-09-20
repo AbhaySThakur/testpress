@@ -1,0 +1,28 @@
+Gh_pages example
+========================================================
+author: Abhay
+date: 20-sep-2015
+
+Rpres on gh-pages
+========================================================
+
+For more details on authoring R presentations click the
+**Help** button on the toolbar.
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
